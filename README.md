@@ -31,7 +31,7 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
-## 📌 Featured Projects (Clickable)
+## 📌 Featured Projects
 
 ### 🔗 **Ansible Work 1**
 A simple Ansible automation project.  
