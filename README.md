@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png" alt="Franklin Banner" width="40%" />
+  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png" alt="Franklin Banner" width="25%" />
 </p>
+
 
 # 👋 Hi, I'm Franklin
 
@@ -26,13 +27,16 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 <!-- Languages & Tools Image -->
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/languages.png" alt="Languages and Tools" width="70%" />
+  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/stack.png" alt="Languages and Tools" width="80%" />
 </p>
 
 **Languages:** Python, Bash, Go (learning), JavaScript  
 **Cloud:** AWS  
 **DevOps:** Docker, Jenkins, GitHub Actions  
 **Databases:** SQLite, PostgreSQL, DynamoDB  
+**Tools:** VS Code, Linux, ESLint  
+**Frameworks:** Node.js, React, Next.js, NestJS, GraphQL  
+  
 
 ---
 
@@ -64,16 +68,13 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Franklindot04&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Franklindot04&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Franklindot04" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklindot04&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
