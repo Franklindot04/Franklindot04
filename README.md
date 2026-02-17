@@ -33,8 +33,6 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 🔗 **Projects:**
 
 • [Ansible Work 1](https://github.com/Franklindot04/ansible-work-1) – 15+ playbooks for Linux automation, web deployments, roles, templates & real DevOps workflows  
