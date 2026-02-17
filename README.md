@@ -41,6 +41,7 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
 ---
 
 ## 📌 Featured Projects
