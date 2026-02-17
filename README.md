@@ -5,7 +5,6 @@
        style="width: 100%; height: auto;" />
 </p>
 
-
 # 👋 Hi, I'm Franklin
 
 **DevOps Engineer | AWS | CI/CD | Automation | Cloud Infrastructure**
