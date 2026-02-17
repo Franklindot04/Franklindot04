@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png"
        alt="Franklin Banner"
-       width="300" height="250" />
+       width="280" height="150" />
 </p>
 
 # 👋 Hi, I'm Franklin
