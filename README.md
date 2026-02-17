@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png" alt="Franklin Banner" width="25%" />
+  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png" alt="Franklin Banner" width="25%" style="max-width: 100%; height: auto;" />
 </p>
 
 # 👋 Hi, I'm Franklin
@@ -64,24 +64,25 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Franklindot04&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Franklindot04&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Activity
+
+<!-- Aqua/Green streak card -->
 <p align="center">
-  <!-- Streak card with aqua/green theme -->
-  <img src="https://streak-stats.demolab.com/?user=Franklindot04&theme=aura" />
+  <img src="https://streak-stats.demolab.com/?user=Franklindot04&theme=green_nur" />
 </p>
 
+<!-- Top languages -->
 <p align="center">
-  <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklindot04&layout=compact&theme=tokyonight" />
 </p>
 
+<!-- Overall GitHub stats -->
 <p align="center">
-  <!-- Overall GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -101,4 +102,3 @@ My focus is on creating clean, reproducible workflows and documenting everything
 ---
 
 ⭐ *Always learning. Always building. Always improving.*
-
