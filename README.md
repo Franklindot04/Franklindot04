@@ -33,21 +33,14 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ## 📌 Featured Projects
 
-### 🔗 **Ansible Work 1**
-A simple Ansible automation project.  
-👉 https://github.com/Franklindot04/ansible-work-1
+## 📌 Featured Projects
 
-### 🔗 **Number Guess Game (Python)**
-A fun CLI number guessing game.  
-👉 https://github.com/Franklindot04/number_guess_game/tree/master
+🔗 **Projects:**
 
-### 🔗 **Python Background Job Microservice**
-A microservice that runs background jobs using Python.  
-👉 https://github.com/Franklindot04/python-background-job-microservice
-
-### 🔗 **Lambda Text Processor API**
-Serverless CRUD API using AWS Lambda, API Gateway & DynamoDB.  
-👉 https://github.com/Franklindot04/lambda-text-processor
+• [Ansible Work 1](https://github.com/Franklindot04/ansible-work-1) – 15+ playbooks for Linux automation, web deployments, roles, templates & real DevOps workflows  
+• [Number Guess Game](https://github.com/Franklindot04/number_guess_game/tree/master) – Java-based game with full Jenkins CI/CD pipeline  
+• [Python Background Job Microservice](https://github.com/Franklindot04/python-background-job-microservice) – Python microservice for running background jobs  
+• [Lambda Text Processor API](https://github.com/Franklindot04/lambda-text-processor) – Serverless text processor using AWS Lambda, API Gateway & DynamoDB  
 
 ---
 
