@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png"
        alt="Franklin Banner"
-       style="width: 100%; height: auto;" />
+       width="100%" />
 </p>
 
 # 👋 Hi, I'm Franklin
