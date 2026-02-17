@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png"
-       alt="Franklin Banner"
-       width="280" height="100" />
-</p>
-
 # 👋 Hi, I'm Franklin
 
 **DevOps Engineer | AWS | CI/CD | Automation | Cloud Infrastructure**
@@ -37,59 +31,18 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
-## 📌 Featured Projects
-- **Lambda Text Processor API** – Serverless CRUD API using AWS Lambda, API Gateway & DynamoDB  
-- **GitHub Activity Tracker** – Tracks streaks, contributions, and languages used  
-- **Personal Finance Tracker API** – Python + SQLite/PostgreSQL backend  
-- More coming soon…
+## 📌 Featured Projects (Clickable)
 
----
+### 🔗 **Ansible Work 1**
+A simple Ansible automation project.  
+👉 https://github.com/Franklindot04/ansible-work-1
 
-## 🧩 Currently Working On
-- Building a **GitHub Activity Tracker** (Python + GitHub API)
-- Designing a **Personal Finance Tracker API**
-- Expanding my **DevOps automation portfolio**
-- Improving my **Go programming skills**
+### 🔗 **Number Guess Game (Python)**
+A fun CLI number guessing game.  
+👉 https://github.com/Franklindot04/number_guess_game/tree/master
 
----
+### 🔗 **Python Background Job Microservice**
+A microservice that runs background jobs using Python.  
+👉 https://github.com/Franklindot04/python-background-job-microservice
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Franklindot04&theme=matrix&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<!-- Aqua/Green streak card -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Franklindot04&theme=green_nur" />
-</p>
-
-<!-- Top languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklindot04&layout=compact&theme=tokyonight" />
-</p>
-
-<!-- Overall GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Visitor Counter
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Franklindot04&color=blue" />
-</p>
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/franklin-ajero-9b74a2162  
-- GitHub: https://github.com/Franklindot04  
-
----
-
-⭐ *Always learning. Always building. Always improving.*
+### 🔗 **Lambda Text Processor API
