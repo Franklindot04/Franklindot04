@@ -53,16 +53,6 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
-## 🎯 Goals for 2026
-- Build **10+ DevOps-focused projects**
-- Deploy multiple apps using **CI/CD pipelines**
-- Master **Terraform** and Infrastructure as Code
-- Contribute to **open-source DevOps tools**
-- Earn an **AWS certification**
-- Maintain a **100+ day GitHub streak**
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Franklindot04&theme=matrix&no-frame=true&margin-w=10" />
