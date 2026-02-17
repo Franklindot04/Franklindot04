@@ -65,6 +65,11 @@ My focus is on creating clean, reproducible workflows and documenting everything
   <img src="https://streak-stats.demolab.com/?user=Franklindot04&theme=green_nur" />
 </p>
 
+<!-- Radar-style contribution chart -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franklindot04&theme=tokyonight" />
+</p>
+
 <!-- Overall GitHub stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
@@ -82,7 +87,3 @@ My focus is on creating clean, reproducible workflows and documenting everything
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/franklin-ajero-9b74a2162  
 - GitHub: https://github.com/Franklindot04  
-
----
-
-⭐ *Always learning. Always building.*
