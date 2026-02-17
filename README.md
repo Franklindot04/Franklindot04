@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png" alt="Franklin Banner" width="25%" />
 </p>
 
-
 # 👋 Hi, I'm Franklin
 
 **DevOps Engineer | AWS | CI/CD | Automation | Cloud Infrastructure**
@@ -23,20 +22,17 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
-## 🧰 Skills & Tools
-
-<!-- Languages & Tools Image -->
+## 🧰 Skills & Tools (Badges)
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/stack.png" alt="Languages and Tools" width="80%" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
-**Languages:** Python, Bash, Go (learning), JavaScript  
-**Cloud:** AWS  
-**DevOps:** Docker, Jenkins, GitHub Actions  
-**Databases:** SQLite, PostgreSQL, DynamoDB  
-**Tools:** VS Code, Linux, ESLint  
-**Frameworks:** Node.js, React, Next.js, NestJS, GraphQL  
-  
 
 ---
 
@@ -73,7 +69,19 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
+## 📊 GitHub Stats & Activity
 <p align="center">
+  <!-- Streak card with aqua/green theme -->
+  <img src="https://streak-stats.demolab.com/?user=Franklindot04&theme=aura" />
+</p>
+
+<p align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklindot04&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Overall GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
 </p>
 
