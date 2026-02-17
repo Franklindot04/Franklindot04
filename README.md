@@ -83,7 +83,3 @@ My focus is on creating clean, reproducible workflows and documenting everything
 </p>
 
 ---
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/franklin-ajero-9b74a2162  
-- GitHub: https://github.com/Franklindot04  
