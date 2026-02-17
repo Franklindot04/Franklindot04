@@ -1,8 +1,8 @@
-<!-- Full-width Banner -->
+<!-- Full‑Width Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png" 
-       alt="Franklin Banner" 
-       style="width: 100%; max-width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png"
+       alt="Franklin Banner"
+       style="width: 100%; height: auto;" />
 </p>
 
 
