@@ -1,8 +1,7 @@
-<!-- Full‑Width Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Franklindot04/Franklindot04/main/banner.png"
        alt="Franklin Banner"
-       width="100%" />
+       width="728" height="90" />
 </p>
 
 # 👋 Hi, I'm Franklin
