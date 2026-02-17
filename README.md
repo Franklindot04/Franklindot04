@@ -60,13 +60,6 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Franklindot04&theme=matrix&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <!-- Aqua/Green streak card -->
