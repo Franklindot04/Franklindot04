@@ -100,9 +100,12 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ## 👨‍💻 About the Author
 
-I'm Franklin — a DevOps Engineer and backend developer passionate about automation, cloud infrastructure, and building clean, production-ready systems.  
+I'm Franklin a DevOps Engineer and backend developer passionate about automation, cloud infrastructure, and building clean, production-ready systems.  
 I enjoy documenting my work, mentoring others, and creating projects that reflect real-world engineering workflows.
 
 ## ⭐ Support the Project
 
-If you find any of my project helpful, consider giving it a ⭐ on GitHub — it helps others discover it!
+If you find any of my projects helpful, consider giving it a ⭐ on GitHub, it helps others discover it!
+
+Thanks for stopping by and happy building! 🚀
+
