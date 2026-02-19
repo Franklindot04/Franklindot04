@@ -52,6 +52,7 @@ My focus is on creating clean, reproducible workflows and documenting everything
 • [Number Guess Game](https://github.com/Franklindot04/number_guess_game/tree/master) – Java-based game with full Jenkins CI/CD pipeline  
 • [Python Background Job Microservice](https://github.com/Franklindot04/python-background-job-microservice) – Python microservice for running background jobs  
 • [Lambda Text Processor API](https://github.com/Franklindot04/lambda-text-processor) – Serverless text processor using AWS Lambda, API Gateway & DynamoDB  
+• [Finance Tracker API](https://github.com/Franklindot04/finance-tracker-api) – FastAPI backend with JWT auth, SQLite, Docker & clean modular architecture
 
 ---
 
@@ -96,3 +97,12 @@ My focus is on creating clean, reproducible workflows and documenting everything
 </p>
 
 ---
+
+## 👨‍💻 About the Author
+
+I'm Franklin — a DevOps Engineer and backend developer passionate about automation, cloud infrastructure, and building clean, production-ready systems.  
+I enjoy documenting my work, mentoring others, and creating projects that reflect real-world engineering workflows.
+
+## ⭐ Support the Project
+
+If you find any of my project helpful, consider giving it a ⭐ on GitHub — it helps others discover it!
