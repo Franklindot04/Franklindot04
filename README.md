@@ -3,7 +3,7 @@
 **DevOps Engineer | AWS | CI/CD | Automation | Cloud Infrastructure**
 
 I build reliable, scalable, and automated systems using AWS, Docker, Jenkins, Linux, and modern DevOps tooling.  
-My focus is on creating clean, reproducible workflows and documenting everything for clarity and impact..
+My focus is on creating clean, reproducible workflows and documenting everything for clarity and impact.
 
 ---
 
