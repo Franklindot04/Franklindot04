@@ -66,7 +66,7 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ## 🧠 Most Used Languages (Auto‑Updating)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklindot04&layout=compact&langs_count=10&theme=tokyonight&v=3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franklindot04&layout=compact&langs_count=10&theme=tokyonight&hide=hcl" />
 
 ---
 
