@@ -14,22 +14,6 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
-## 🧩 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franklindot04&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franklindot04&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franklindot04&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Franklindot04&theme=tokyonight" />
-</p>
-
-
 ## 🚀 What I Do
 - Cloud Infrastructure (AWS EC2, Lambda, API Gateway, DynamoDB)
 - CI/CD Pipelines (Jenkins, GitHub Actions)
@@ -92,6 +76,8 @@ My focus is on creating clean, reproducible workflows and documenting everything
 <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Franklindot04&layout=compact&langs_count=10&theme=tokyonight" />
 
 ---
+
+
 
 ## 📊 GitHub Stats & Activity
 
