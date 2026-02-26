@@ -71,12 +71,6 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
-## 🧠 Most Used Languages (Auto‑Updating)
-
-<img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Franklindot04&layout=compact&langs_count=10&theme=tokyonight" />
-
----
-
 ## 🧩 GitHub Profile Summary
 
 <p align="center">
@@ -103,24 +97,6 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
-</p>
-
-
-## 📊 GitHub Stats & Activity
-
-<!-- Aqua/Green streak card -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Franklindot04&theme=green_nur" />
-</p>
-
-<!-- Radar-style contribution chart -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franklindot04&theme=tokyonight" />
-</p>
-
-<!-- Overall GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
