@@ -74,10 +74,6 @@ My focus is on creating clean, reproducible workflows and documenting everything
 ## 🧩 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franklindot04&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franklindot04&theme=tokyonight" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franklindot04&theme=tokyonight" />
 </p>
