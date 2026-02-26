@@ -77,6 +77,33 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
+## 🧩 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franklindot04&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franklindot04&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franklindot04&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Franklindot04&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=Franklindot04&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franklindot04&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
+</p>
 
 
 ## 📊 GitHub Stats & Activity
