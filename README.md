@@ -7,6 +7,13 @@ My focus is on creating clean, reproducible workflows and documenting everything
 
 ---
 
+## 👀 Visitor Counter
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Franklindot04&color=blue" />
+</p>
+
+---
+
 ## 🚀 What I Do
 - Cloud Infrastructure (AWS EC2, Lambda, API Gateway, DynamoDB)
 - CI/CD Pipelines (Jenkins, GitHub Actions)
@@ -85,13 +92,6 @@ My focus is on creating clean, reproducible workflows and documenting everything
 <!-- Overall GitHub stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Franklindot04&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Visitor Counter
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Franklindot04&color=blue" />
 </p>
 
 ---
