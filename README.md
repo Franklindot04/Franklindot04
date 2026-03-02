@@ -68,6 +68,7 @@ My focus is on creating clean, reproducible workflows and documenting everything
 - Designing a **Personal Finance Tracker API**
 - Expanding my **DevOps automation portfolio**
 - Improving my **Go programming skills**
+- Building a **SRE observability platform using Prometheus, Grafana**
 
 ---
 
