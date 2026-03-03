@@ -60,7 +60,7 @@ My focus is on creating clean, reproducible workflows and documenting everything
 • [Python Background Job Microservice](https://github.com/Franklindot04/python-background-job-microservice) – Python microservice for running background jobs  
 • [Lambda Text Processor API](https://github.com/Franklindot04/lambda-text-processor) – Serverless text processor using AWS Lambda, API Gateway & DynamoDB  
 • [Finance Tracker API](https://github.com/Franklindot04/finance-tracker-api) – FastAPI backend with JWT auth, SQLite, Docker & clean modular architecture      
-• [prometheus-grafana-sre-project-Franklin](https://github.com/Franklindot04/prometheus-grafana-sre-project-Franklin.git) - SRE observability platform using Prometheus, Grafana, Alertmanager, and a FastAPI service with custom metrics.§
+• [prometheus-grafana-sre-project-Franklin](https://github.com/Franklindot04/prometheus-grafana-sre-project-Franklin.git) - SRE observability platform using Prometheus, Grafana, Alertmanager, and a FastAPI service with custom metrics.
 
 ---
 
