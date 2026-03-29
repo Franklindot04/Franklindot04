@@ -2,7 +2,7 @@
 
 **DevOps & Site Reliability Engineer | AWS | CI/CD | Monitoring & Automation**
 
-I build reliable, scalable, and automated systems using AWS, Docker, Jenkins, Linux, and modern DevOps tooling.  
+I build reliable, scalable and automated systems using AWS, Docker, Jenkins, Linux, and modern DevOps tooling.  
 My focus is on creating clean, reproducible workflows and documenting everything for clarity and impact.
 
 ---
