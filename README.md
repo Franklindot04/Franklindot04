@@ -105,7 +105,7 @@ I enjoy documenting my work, mentoring others, and creating projects that reflec
 
 ## ⭐ Support the Project
 
-If you find any of my projects helpful, consider giving it a ⭐ on GitHub, it helps others discover it!
+If you find any of my projects helpful, consider giving it a ⭐ on GitHub, it helps others discover it.
 
 Thanks for stopping by and happy building! 🚀
 
