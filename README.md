@@ -192,16 +192,56 @@ Modular background job runner with Docker and clean architecture.
 ---
 
 <details>
-<summary><strong>💰 Finance Tracker API</strong></summary>
+<summary><strong>💰 Finance Tracker API — FastAPI • Docker • Terraform • AWS ECS Fargate</strong></summary>
 
 **Repo:**  
 • [Finance Tracker API](https://github.com/Franklindot04/finance-tracker-api)
 
 **Shields:**  
-<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-ECS%20Fargate-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-RDS-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square" />
+<img src="https://img.shields.io/badge/CloudWatch-Logs-yellow?style=flat-square" />
 
 **Description:**  
-FastAPI backend with JWT auth, SQLite, Docker & modular architecture.
+A production‑ready FastAPI backend for tracking personal expenses — fully containerized with Docker and deployed to AWS ECS Fargate using Terraform.  
+This project demonstrates real‑world DevOps engineering: Infrastructure as Code, secure VPC networking, load‑balanced container workloads, RDS PostgreSQL, and cloud‑native observability.
+
+**Key Capabilities:**  
+- JWT‑based authentication (register/login)  
+- CRUD operations for expenses  
+- SQLite locally, PostgreSQL (RDS) in production  
+- Modular FastAPI architecture (routers, models, schemas, core)  
+- Dockerfile + docker‑compose for local development  
+- Swagger UI at `/docs`  
+- CI/CD‑ready structure for GitHub Actions → ECS  
+
+**Cloud Infrastructure (Terraform):**  
+- VPC with public + private subnets  
+- Application Load Balancer (public)  
+- ECS Fargate service (private subnets)  
+- RDS PostgreSQL (private subnets)  
+- Security groups with least‑privilege access  
+- IAM roles for ECS task execution & logging  
+- CloudWatch log groups for observability  
+- ECR repository for container images  
+
+**High‑Level Architecture:**  
+ALB → ECS Fargate Task → RDS PostgreSQL  
+VPC with NAT Gateway, route tables, and VPC endpoints for ECR/S3.
+
+**Authentication Flow:**  
+- Register → Login → Receive JWT → Use token in Authorization header  
+- Fully stateless, token‑based authentication  
+
+**What This Demonstrates:**  
+- Cloud‑native application deployment  
+- Infrastructure as Code with Terraform  
+- Secure networking and IAM design  
+- Container orchestration with ECS Fargate  
+- Production‑grade backend engineering  
 
 </details>
 
