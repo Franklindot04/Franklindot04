@@ -119,16 +119,44 @@ Real SRE practices: instrumentation, exporters, alerting, dashboards, runbooks, 
 ---
 
 <details>
-<summary><strong>🛠 Ansible Automation Suite</strong></summary>
+<summary><strong>🛠 Ansible Automation Suite — 15+ Production‑Style Playbooks</strong></summary>
 
 **Repo:**  
 • [Ansible Work 1](https://github.com/Franklindot04/ansible-work-1)
 
 **Shields:**  
-<img src="https://img.shields.io/badge/Ansible-Playbooks-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Ansible-Automation-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Linux-Servers-grey?style=flat-square" />
+<img src="https://img.shields.io/badge/Playbooks-15%2B-blue?style=flat-square" />
 
 **Description:**  
-15+ playbooks for Linux automation, deployments, roles, templates & real DevOps workflows.
+A comprehensive collection of 15+ Ansible playbooks designed to automate real‑world Linux server operations, application deployments, configuration management, and environment provisioning.  
+This suite demonstrates production‑style automation patterns including multi‑play orchestration, templating, handlers, dynamic variables, and reusable role‑based structures.
+
+**Key Capabilities:**  
+- Server provisioning & configuration (users, packages, services)  
+- Web application deployments (HTML, PHP, Angular)  
+- Apache/HTTPD setup & environment configuration  
+- Maintenance mode workflows (blue/green‑style switch)  
+- Dynamic Jinja2 templating & variable injection  
+- Logical conditions, handlers & multi‑play orchestration  
+- Role‑ready structure for scalable automation  
+
+**Included Playbooks:**  
+- Server setup & package installation  
+- Apache/HTTPD provisioning  
+- E‑commerce & food‑delivery sample deployments  
+- HTML, PHP & Angular app deployments  
+- Maintenance mode automation  
+- Static & dynamic variable examples  
+- Ubuntu server configuration  
+- Multi‑package & logical condition automation  
+
+**What This Demonstrates:**  
+- Infrastructure automation fundamentals  
+- Idempotent configuration management  
+- Reusable automation patterns  
+- Real DevOps workflows using Ansible at scale  
 
 </details>
 
