@@ -75,19 +75,46 @@ Slack‑driven deployment automation with GitHub Actions, AWS Lambda, API Gatewa
 ---
 
 <details>
-<summary><strong>📊 Prometheus + Grafana SRE Platform</strong></summary>
+<summary><strong>📊 Prometheus + Grafana SRE Observability Platform</strong></summary>
 
 **Repo:**  
 • [Prometheus + Grafana SRE Platform](https://github.com/Franklindot04/prometheus-grafana-sre-project-Franklin)
 
 **Shields:**  
-<img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Grafana-Dashboards-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-App-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Grafana-Dashboards-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Alertmanager-Alerts-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Blackbox-Exporter-lightgrey?style=flat-square" />
 
 **Description:**  
-Full observability stack with custom FastAPI metrics, dashboards, alerting, and SLO‑focused monitoring.
+A full production‑grade observability and alerting platform built around a FastAPI application instrumented with Prometheus metrics, visualized through Grafana dashboards, monitored externally via Blackbox Exporter, and equipped with a complete alerting pipeline using Prometheus alert rules + Alertmanager + Grafana‑managed alerts.
+
+**Key Capabilities:**  
+- Custom FastAPI metrics (request count, latency histograms, Python internals)  
+- Blackbox Exporter for external uptime monitoring  
+- Auto‑provisioned Grafana dashboards (FastAPI, Blackbox, Prometheus internals)  
+- Full alerting pipeline (Prometheus → Alertmanager → Slack)  
+- Grafana‑managed alert rules for external probe failures  
+- Environment‑aware configuration (macOS vs Linux exporters)  
+- Secure secret management using `.env` + Alertmanager variable injection  
+- Modular, production‑ready Docker Compose architecture  
+
+**Alerting Features:**  
+- Critical & warning alerts (latency, traffic spikes, target down, app down)  
+- Blackbox probe alerts for external endpoint failures  
+- Slack notifications with runbook links, severity labels & metadata  
+- Automatic alert resolution when services recover  
+
+**Architecture Overview:**  
+FastAPI → Prometheus → Grafana → Alertmanager → Slack  
+Blackbox Exporter → Prometheus → Grafana → Alerts  
+
+**What This Demonstrates:**  
+Real SRE practices: instrumentation, exporters, alerting, dashboards, runbooks, secret management, and operational readiness.
 
 </details>
+
 
 ---
 
