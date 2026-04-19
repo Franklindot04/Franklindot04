@@ -56,19 +56,71 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 ## **DevOps & SRE Engineering**
 
 <details>
-<summary><strong>🚀 DevOps Deployment Automation (Slack‑Driven CI/CD + Rollback)</strong></summary>
+<summary><strong>🚀 DevOps Deployment Automation — Slack‑Driven CI/CD • GitHub Actions • AWS Lambda • Rollback System</strong></summary>
 
 **Repo:**  
 • [DevOps Deployment Automation](https://github.com/Franklindot04/devops-deployment-automation)
 
-**Badges:**  
+**Workflow Badges:**  
 ![Deploy Staging](https://github.com/Franklindot04/devops-deployment-automation/actions/workflows/deploy_staging.yml/badge.svg)
 ![Deploy Production](https://github.com/Franklindot04/devops-deployment-automation/actions/workflows/deploy_production.yml/badge.svg)
 ![Promote to Production](https://github.com/Franklindot04/devops-deployment-automation/actions/workflows/promote_to_production.yml/badge.svg)
 ![Rollback Production](https://github.com/Franklindot04/devops-deployment-automation/actions/workflows/rollback_production.yml/badge.svg)
 
+**Tech Badges:**  
+<img src="https://img.shields.io/badge/AWS-Lambda-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-API%20Gateway-red?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-ECR-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-CloudWatch-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-IAM-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square" />
+<img src="https://img.shields.io/badge/Shell-Scripting-black?style=flat-square" />
+<img src="https://img.shields.io/badge/Slack-Integration-4A154B?style=flat-square" />
+
 **Description:**  
-Slack‑driven deployment automation with GitHub Actions, AWS Lambda, API Gateway, version tracking, and stateless rollback.
+A fully automated, Slack‑controlled CI/CD pipeline built with GitHub Actions, AWS Lambda, API Gateway, and a complete stateless rollback system.  
+This project demonstrates real‑world DevOps/SRE practices: multi‑environment deployments, version tracking, health checks, promotion workflows, and automated rollback triggered from Slack.
+
+---
+
+### **Key Capabilities**
+- Slack‑driven deployments (deploy, promote, rollback)
+- Multi‑environment CI/CD (staging + production)
+- Stateless version tracking using version files
+- Automated health checks before marking deploy successful
+- Zero‑downtime rollback to previous stable version
+- Dockerized application for consistent builds
+- AWS Lambda + API Gateway for Slack webhook handling
+
+---
+
+### **Scripts Included (Production‑Style Automation)**
+Located in `scripts/`:
+
+- `build.sh` — Build Docker image  
+- `push.sh` / `push_staging.sh` — Push image to ECR  
+- `deploy_staging.sh` — Deploy to staging  
+- `deploy_production.sh` — Deploy to production  
+- `promote.sh` — Promote staging → production  
+- `rollback_production.sh` — Roll back to previous version  
+- `healthcheck.sh` — Validate service health  
+- `logs.sh` — Fetch logs for debugging  
+
+---
+
+### **Architecture Overview**
+GitHub Actions → AWS Lambda → API Gateway → Deployment Scripts → Version Tracking → Slack Notifications
+
+---
+
+### **What This Demonstrates**
+- Multi‑stage CI/CD pipeline design  
+- Slack‑driven operational workflows  
+- Stateless deployment + rollback strategy  
+- Automated health checks & promotion logic  
+- GitHub Actions + AWS Lambda integration  
+- Production‑style deployment scripting  
+- Real SRE operational maturity  
 
 </details>
 
