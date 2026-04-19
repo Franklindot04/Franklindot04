@@ -180,18 +180,55 @@ FastAPI backend with JWT auth, SQLite, Docker & modular architecture.
 ---
 
 <details>
-<summary><strong>🎮 Number Guess Game (CI/CD)</strong></summary>
+<summary><strong>🎮 Number Guess Game — Full CI/CD Pipeline (Jenkins • Maven • SonarQube • Nexus • Tomcat)</strong></summary>
 
 **Repo:**  
 • [Number Guess Game](https://github.com/Franklindot04/number_guess_game/tree/master)
 
 **Shields:**  
-<img src="https://img.shields.io/badge/Java-Game-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Jenkins-Pipeline-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Java-8%2F17%2F21-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Maven-Build-red?style=flat-square" />
+<img src="https://img.shields.io/badge/SonarQube-Quality-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Nexus-Artifacts-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Tomcat-Deployment-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-EC2-ff9900?style=flat-square" />
 
 **Description:**  
-Java-based game with full Jenkins CI/CD pipeline.
+A fully automated CI/CD pipeline for a Java Servlet web application deployed on AWS EC2.  
+This project demonstrates a complete DevOps workflow: build, test, quality gate checks, artifact versioning, and automated deployment to Tomcat — all orchestrated through Jenkins Pipeline‑as‑Code.
+
+**Key Capabilities:**  
+- Maven build + unit tests on every commit  
+- SonarQube Quality Gates for static analysis  
+- Versioned `.war` artifacts stored in Nexus  
+- Automated deployment to Apache Tomcat  
+- Zero manual steps — fully automated CI/CD  
+- Clean, production‑style multi‑server architecture on AWS  
+
+**Infrastructure:**  
+- Jenkins (CI engine)  
+- SonarQube (code quality)  
+- Nexus Repository Manager (artifact storage)  
+- Apache Tomcat (deployment target)  
+- AWS EC2 instances (isolated services, no config drift)  
+
+**Versioning & Rollback:**  
+- Every build stored in Nexus with unique version  
+- Any version can be redeployed via Jenkins  
+- Safe, controlled rollback workflow  
+
+**UI Enhancements:**  
+- Centered layout  
+- Modern block‑style container  
+- Mossy‑hollow color theme  
+- Improved user feedback  
+
+**Tech Stack:**  
+Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • Tomcat • AWS EC2
 
 </details>
+
 
 ---
 
