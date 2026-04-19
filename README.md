@@ -1,3 +1,10 @@
+<!-- Animated Header -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00AEEF&center=true&vCenter=true&width=700&lines=Franklin+%7C+DevOps+%26+SRE+Engineer;AWS+%7C+CI%2FCD+%7C+Automation+%7C+Observability;Building+Reliable+Scalable+Systems" />
+  </a>
+</p>
+
 # 👋 Hi, I'm Franklin  
 **DevOps & Site Reliability Engineer | AWS | CI/CD | Automation | Observability**
 
@@ -42,20 +49,122 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 
 ---
 
-## 📌 Featured Projects
-
-### **DevOps & SRE Engineering**
-• **[DevOps Deployment Automation](https://github.com/Franklindot04/devops-deployment-automation)** – Slack‑driven CI/CD pipeline with GitHub Actions, AWS Lambda, API Gateway & automated rollback  
-• **[Prometheus + Grafana SRE Platform](https://github.com/Franklindot04/prometheus-grafana-sre-project-Franklin)** – Full observability stack with custom FastAPI metrics, dashboards & alerting  
-• **[Ansible Work 1](https://github.com/Franklindot04/ansible-work-1)** – 15+ playbooks for Linux automation, deployments, roles & templates  
+# 📌 Featured Projects
 
 ---
 
-### **Backend & Microservices**
-• **Face Recognition Platform (Private Repo)** – InsightFace + FastAPI + Docker + AWS; embedding generation, vector search & secure APIs  
-• **[Python Background Job Microservice](https://github.com/Franklindot04/python-background-job-microservice)** – Python microservice for running background jobs  
-• **[Finance Tracker API](https://github.com/Franklindot04/finance-tracker-api)** – FastAPI backend with JWT auth, SQLite, Docker & modular architecture  
-• **[Number Guess Game](https://github.com/Franklindot04/number_guess_game/tree/master)** – Java-based game with full Jenkins CI/CD pipeline  
+## **DevOps & SRE Engineering**
+
+<details>
+<summary><strong>🚀 DevOps Deployment Automation (Slack‑Driven CI/CD + Rollback)</strong></summary>
+
+**Repo:**  
+• [DevOps Deployment Automation](https://github.com/Franklindot04/devops-deployment-automation)
+
+**Badges:**  
+![Deploy Staging](https://github.com/Franklindot04/devops-deployment-automation/actions/workflows/deploy_staging.yml/badge.svg)
+![Deploy Production](https://github.com/Franklindot04/devops-deployment-automation/actions/workflows/deploy_production.yml/badge.svg)
+![Promote to Production](https://github.com/Franklindot04/devops-deployment-automation/actions/workflows/promote_to_production.yml/badge.svg)
+![Rollback Production](https://github.com/Franklindot04/devops-deployment-automation/actions/workflows/rollback_production.yml/badge.svg)
+
+**Description:**  
+Slack‑driven deployment automation with GitHub Actions, AWS Lambda, API Gateway, version tracking, and stateless rollback.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📊 Prometheus + Grafana SRE Platform</strong></summary>
+
+**Repo:**  
+• [Prometheus + Grafana SRE Platform](https://github.com/Franklindot04/prometheus-grafana-sre-project-Franklin)
+
+**Shields:**  
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Grafana-Dashboards-orange?style=flat-square" />
+
+**Description:**  
+Full observability stack with custom FastAPI metrics, dashboards, alerting, and SLO‑focused monitoring.
+
+</details>
+
+---
+
+<details>
+<summary><strong>🛠 Ansible Automation Suite</strong></summary>
+
+**Repo:**  
+• [Ansible Work 1](https://github.com/Franklindot04/ansible-work-1)
+
+**Shields:**  
+<img src="https://img.shields.io/badge/Ansible-Playbooks-red?style=flat-square" />
+
+**Description:**  
+15+ playbooks for Linux automation, deployments, roles, templates & real DevOps workflows.
+
+</details>
+
+---
+
+## **Backend & Microservices**
+
+<details>
+<summary><strong>🧠 Face Recognition Platform (Private Repo)</strong></summary>
+
+**Description:**  
+InsightFace + FastAPI + Docker + AWS.  
+Embedding generation, vector search, user enrollment, secure APIs.
+
+</details>
+
+---
+
+<details>
+<summary><strong>⚙ Python Background Job Microservice</strong></summary>
+
+**Repo:**  
+• [Python Background Job Microservice](https://github.com/Franklindot04/python-background-job-microservice)
+
+**Shields:**  
+<img src="https://img.shields.io/badge/Python-Microservice-blue?style=flat-square" />
+
+**Description:**  
+Modular background job runner with Docker and clean architecture.
+
+</details>
+
+---
+
+<details>
+<summary><strong>💰 Finance Tracker API</strong></summary>
+
+**Repo:**  
+• [Finance Tracker API](https://github.com/Franklindot04/finance-tracker-api)
+
+**Shields:**  
+<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=flat-square" />
+
+**Description:**  
+FastAPI backend with JWT auth, SQLite, Docker & modular architecture.
+
+</details>
+
+---
+
+<details>
+<summary><strong>🎮 Number Guess Game (CI/CD)</strong></summary>
+
+**Repo:**  
+• [Number Guess Game](https://github.com/Franklindot04/number_guess_game/tree/master)
+
+**Shields:**  
+<img src="https://img.shields.io/badge/Java-Game-orange?style=flat-square" />
+
+**Description:**  
+Java-based game with full Jenkins CI/CD pipeline.
+
+</details>
 
 ---
 
