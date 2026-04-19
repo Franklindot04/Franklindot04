@@ -18,34 +18,27 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 
 ---
 
-## 🚀 Core Expertise
-- **Cloud Infrastructure:** AWS (EC2, Lambda, API Gateway, DynamoDB, S3, IAM, VPC)  
-- **CI/CD Pipelines:** GitHub Actions, Jenkins  
-- **Containers & Orchestration:** Docker, Kubernetes  
-- **Automation:** Bash, Python, Ansible  
-- **Observability:** Prometheus, Grafana, Alertmanager  
-- **Serverless Architectures**  
-- **Monitoring, Logging & SRE Practices**
+# 🧱 Tech Stack Wall (Compact & Categorized)
+
+**Cloud:** AWS (EC2, Lambda, API Gateway, ECS, ECR, RDS, CloudWatch, IAM, VPC)  
+**CI/CD:** GitHub Actions, Jenkins, Slack Approvals  
+**Automation:** Ansible, Bash, Python  
+**Containers:** Docker, Docker Compose, Kubernetes  
+**Observability:** Prometheus, Grafana, Alertmanager, Blackbox Exporter  
+**Backend:** FastAPI, Redis, RQ, SQLAlchemy, PostgreSQL, SQLite  
+**DevOps Practices:** IaC (Terraform), Rollbacks, Health Checks, Version Tracking, Deployment Automation  
 
 ---
 
-## 🧰 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+# 🏆 Top DevOps Projects (Quick Grid)
 
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
+| Project | Stack | Highlights |
+|--------|--------|------------|
+| **DevOps Deployment Automation** | GitHub Actions • Lambda • API Gateway • Docker | Slack-driven deploy, promote, rollback |
+| **SRE Observability Platform** | Prometheus • Grafana • Alertmanager | Metrics, dashboards, alerts, Blackbox |
+| **Finance Tracker API** | FastAPI • Terraform • ECS Fargate | Cloud-native backend + IaC |
+| **Ansible Automation Suite** | Ansible • Linux | 15+ production-style playbooks |
+| **CI/CD Java Pipeline** | Jenkins • Maven • SonarQube • Nexus | Full automated pipeline on EC2 |
 
 ---
 
@@ -81,46 +74,20 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 A fully automated, Slack‑controlled CI/CD pipeline built with GitHub Actions, AWS Lambda, API Gateway, and a complete stateless rollback system.  
 This project demonstrates real‑world DevOps/SRE practices: multi‑environment deployments, version tracking, health checks, promotion workflows, and automated rollback triggered from Slack.
 
----
+**Key Capabilities:**  
+- Slack‑driven deployments (deploy, promote, rollback)  
+- Multi‑environment CI/CD (staging + production)  
+- Stateless version tracking  
+- Automated health checks  
+- Zero‑downtime rollback  
+- Dockerized application  
+- Lambda + API Gateway integration  
 
-### **Key Capabilities**
-- Slack‑driven deployments (deploy, promote, rollback)
-- Multi‑environment CI/CD (staging + production)
-- Stateless version tracking using version files
-- Automated health checks before marking deploy successful
-- Zero‑downtime rollback to previous stable version
-- Dockerized application for consistent builds
-- AWS Lambda + API Gateway for Slack webhook handling
+**Scripts Included:**  
+`build.sh`, `push.sh`, `deploy_staging.sh`, `deploy_production.sh`, `promote.sh`, `rollback_production.sh`, `healthcheck.sh`, `logs.sh`
 
----
-
-### **Scripts Included (Production‑Style Automation)**
-Located in `scripts/`:
-
-- `build.sh` — Build Docker image  
-- `push.sh` / `push_staging.sh` — Push image to ECR  
-- `deploy_staging.sh` — Deploy to staging  
-- `deploy_production.sh` — Deploy to production  
-- `promote.sh` — Promote staging → production  
-- `rollback_production.sh` — Roll back to previous version  
-- `healthcheck.sh` — Validate service health  
-- `logs.sh` — Fetch logs for debugging  
-
----
-
-### **Architecture Overview**
-GitHub Actions → AWS Lambda → API Gateway → Deployment Scripts → Version Tracking → Slack Notifications
-
----
-
-### **What This Demonstrates**
-- Multi‑stage CI/CD pipeline design  
-- Slack‑driven operational workflows  
-- Stateless deployment + rollback strategy  
-- Automated health checks & promotion logic  
-- GitHub Actions + AWS Lambda integration  
-- Production‑style deployment scripting  
-- Real SRE operational maturity  
+**Architecture:**  
+GitHub Actions → Lambda → API Gateway → Deployment Scripts → Version Tracking → Slack Notifications
 
 </details>
 
@@ -140,33 +107,12 @@ GitHub Actions → AWS Lambda → API Gateway → Deployment Scripts → Version
 <img src="https://img.shields.io/badge/Blackbox-Exporter-lightgrey?style=flat-square" />
 
 **Description:**  
-A full production‑grade observability and alerting platform built around a FastAPI application instrumented with Prometheus metrics, visualized through Grafana dashboards, monitored externally via Blackbox Exporter, and equipped with a complete alerting pipeline using Prometheus alert rules + Alertmanager + Grafana‑managed alerts.
-
-**Key Capabilities:**  
-- Custom FastAPI metrics (request count, latency histograms, Python internals)  
-- Blackbox Exporter for external uptime monitoring  
-- Auto‑provisioned Grafana dashboards (FastAPI, Blackbox, Prometheus internals)  
-- Full alerting pipeline (Prometheus → Alertmanager → Slack)  
-- Grafana‑managed alert rules for external probe failures  
-- Environment‑aware configuration (macOS vs Linux exporters)  
-- Secure secret management using `.env` + Alertmanager variable injection  
-- Modular, production‑ready Docker Compose architecture  
-
-**Alerting Features:**  
-- Critical & warning alerts (latency, traffic spikes, target down, app down)  
-- Blackbox probe alerts for external endpoint failures  
-- Slack notifications with runbook links, severity labels & metadata  
-- Automatic alert resolution when services recover  
-
-**Architecture Overview:**  
-FastAPI → Prometheus → Grafana → Alertmanager → Slack  
-Blackbox Exporter → Prometheus → Grafana → Alerts  
+A full production‑grade observability and alerting platform with custom FastAPI metrics, Grafana dashboards, Prometheus alert rules, Alertmanager routing, and Blackbox external uptime monitoring.
 
 **What This Demonstrates:**  
-Real SRE practices: instrumentation, exporters, alerting, dashboards, runbooks, secret management, and operational readiness.
+Instrumentation • Exporters • Alerting • Dashboards • Runbooks • Secret Management • SRE Operational Maturity
 
 </details>
-
 
 ---
 
@@ -182,33 +128,7 @@ Real SRE practices: instrumentation, exporters, alerting, dashboards, runbooks, 
 <img src="https://img.shields.io/badge/Playbooks-15%2B-blue?style=flat-square" />
 
 **Description:**  
-A comprehensive collection of 15+ Ansible playbooks designed to automate real‑world Linux server operations, application deployments, configuration management, and environment provisioning.  
-This suite demonstrates production‑style automation patterns including multi‑play orchestration, templating, handlers, dynamic variables, and reusable role‑based structures.
-
-**Key Capabilities:**  
-- Server provisioning & configuration (users, packages, services)  
-- Web application deployments (HTML, PHP, Angular)  
-- Apache/HTTPD setup & environment configuration  
-- Maintenance mode workflows (blue/green‑style switch)  
-- Dynamic Jinja2 templating & variable injection  
-- Logical conditions, handlers & multi‑play orchestration  
-- Role‑ready structure for scalable automation  
-
-**Included Playbooks:**  
-- Server setup & package installation  
-- Apache/HTTPD provisioning  
-- E‑commerce & food‑delivery sample deployments  
-- HTML, PHP & Angular app deployments  
-- Maintenance mode automation  
-- Static & dynamic variable examples  
-- Ubuntu server configuration  
-- Multi‑package & logical condition automation  
-
-**What This Demonstrates:**  
-- Infrastructure automation fundamentals  
-- Idempotent configuration management  
-- Reusable automation patterns  
-- Real DevOps workflows using Ansible at scale  
+A comprehensive suite of 15+ Ansible playbooks for Linux automation, deployments, configuration management, templating, handlers, and reusable role‑based structures.
 
 </details>
 
@@ -218,11 +138,8 @@ This suite demonstrates production‑style automation patterns including multi�
 
 <details>
 <summary><strong>🧠 Face Recognition Platform (Private Repo)</strong></summary>
-
-**Description:**  
 InsightFace + FastAPI + Docker + AWS.  
 Embedding generation, vector search, user enrollment, secure APIs.
-
 </details>
 
 ---
@@ -233,40 +150,8 @@ Embedding generation, vector search, user enrollment, secure APIs.
 **Repo:**  
 • [Python Background Job Microservice](https://github.com/Franklindot04/python-background-job-microservice)
 
-**Shields:**  
-<img src="https://img.shields.io/badge/FastAPI-API%20Service-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Redis-Message%20Broker-red?style=flat-square" />
-<img src="https://img.shields.io/badge/RQ-Worker%20Queue-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square" />
-<img src="https://img.shields.io/badge/Compose-Orchestration-blue?style=flat-square" />
-
 **Description:**  
-A production‑style microservice architecture built with FastAPI, Redis, and RQ for asynchronous background job processing.  
-The system exposes an HTTP API for submitting jobs, checking job status, and retrieving results — while a dedicated worker processes tasks asynchronously.  
-All components run in isolated containers using Docker Compose.
-
-**Key Capabilities:**  
-- FastAPI HTTP API for job submission & status tracking  
-- Redis as a message broker / job queue  
-- RQ worker for asynchronous background processing  
-- Fully containerized with Docker & Docker Compose  
-- Logs, troubleshooting, and multi‑service orchestration  
-- Deployable on AWS EC2 or any Linux host  
-
-**Architecture:**  
-API → Redis → Worker  
-Jobs are queued by the API, processed by the worker, and results retrieved via HTTP.
-
-**Why This Matters:**  
-Demonstrates real DevOps microservice patterns:  
-- Service separation  
-- Asynchronous processing  
-- Container orchestration  
-- Logging & troubleshooting  
-- Environment‑ready structure  
-
-**Tech Stack:**  
-FastAPI • Redis • RQ • Docker • Docker Compose • Linux
+A production‑style microservice architecture with FastAPI, Redis, and RQ for asynchronous background job processing.
 
 </details>
 
@@ -278,51 +163,8 @@ FastAPI • Redis • RQ • Docker • Docker Compose • Linux
 **Repo:**  
 • [Finance Tracker API](https://github.com/Franklindot04/finance-tracker-api)
 
-**Shields:**  
-<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square" />
-<img src="https://img.shields.io/badge/AWS-ECS%20Fargate-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/AWS-RDS-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square" />
-<img src="https://img.shields.io/badge/CloudWatch-Logs-yellow?style=flat-square" />
-
 **Description:**  
-A production‑ready FastAPI backend for tracking personal expenses — fully containerized with Docker and deployed to AWS ECS Fargate using Terraform.  
-This project demonstrates real‑world DevOps engineering: Infrastructure as Code, secure VPC networking, load‑balanced container workloads, RDS PostgreSQL, and cloud‑native observability.
-
-**Key Capabilities:**  
-- JWT‑based authentication (register/login)  
-- CRUD operations for expenses  
-- SQLite locally, PostgreSQL (RDS) in production  
-- Modular FastAPI architecture (routers, models, schemas, core)  
-- Dockerfile + docker‑compose for local development  
-- Swagger UI at `/docs`  
-- CI/CD‑ready structure for GitHub Actions → ECS  
-
-**Cloud Infrastructure (Terraform):**  
-- VPC with public + private subnets  
-- Application Load Balancer (public)  
-- ECS Fargate service (private subnets)  
-- RDS PostgreSQL (private subnets)  
-- Security groups with least‑privilege access  
-- IAM roles for ECS task execution & logging  
-- CloudWatch log groups for observability  
-- ECR repository for container images  
-
-**High‑Level Architecture:**  
-ALB → ECS Fargate Task → RDS PostgreSQL  
-VPC with NAT Gateway, route tables, and VPC endpoints for ECR/S3.
-
-**Authentication Flow:**  
-- Register → Login → Receive JWT → Use token in Authorization header  
-- Fully stateless, token‑based authentication  
-
-**What This Demonstrates:**  
-- Cloud‑native application deployment  
-- Infrastructure as Code with Terraform  
-- Secure networking and IAM design  
-- Container orchestration with ECS Fargate  
-- Production‑grade backend engineering  
+A cloud‑native FastAPI backend deployed on AWS ECS Fargate using Terraform, with RDS PostgreSQL, ALB, VPC networking, and CloudWatch logging.
 
 </details>
 
@@ -334,62 +176,24 @@ VPC with NAT Gateway, route tables, and VPC endpoints for ECR/S3.
 **Repo:**  
 • [Number Guess Game](https://github.com/Franklindot04/number_guess_game/tree/master)
 
-**Shields:**  
-<img src="https://img.shields.io/badge/Jenkins-Pipeline-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Java-8%2F17%2F21-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Maven-Build-red?style=flat-square" />
-<img src="https://img.shields.io/badge/SonarQube-Quality-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/Nexus-Artifacts-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Tomcat-Deployment-lightgrey?style=flat-square" />
-<img src="https://img.shields.io/badge/AWS-EC2-ff9900?style=flat-square" />
-
 **Description:**  
-A fully automated CI/CD pipeline for a Java Servlet web application deployed on AWS EC2.  
-This project demonstrates a complete DevOps workflow: build, test, quality gate checks, artifact versioning, and automated deployment to Tomcat — all orchestrated through Jenkins Pipeline‑as‑Code.
-
-**Key Capabilities:**  
-- Maven build + unit tests on every commit  
-- SonarQube Quality Gates for static analysis  
-- Versioned `.war` artifacts stored in Nexus  
-- Automated deployment to Apache Tomcat  
-- Zero manual steps — fully automated CI/CD  
-- Clean, production‑style multi‑server architecture on AWS  
-
-**Infrastructure:**  
-- Jenkins (CI engine)  
-- SonarQube (code quality)  
-- Nexus Repository Manager (artifact storage)  
-- Apache Tomcat (deployment target)  
-- AWS EC2 instances (isolated services, no config drift)  
-
-**Versioning & Rollback:**  
-- Every build stored in Nexus with unique version  
-- Any version can be redeployed via Jenkins  
-- Safe, controlled rollback workflow  
-
-**UI Enhancements:**  
-- Centered layout  
-- Modern block‑style container  
-- Mossy‑hollow color theme  
-- Improved user feedback  
-
-**Tech Stack:**  
-Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • Tomcat • AWS EC2
+A fully automated CI/CD pipeline for a Java Servlet application using Jenkins, Maven, SonarQube, Nexus, and Tomcat on AWS EC2.
 
 </details>
 
+---
+
+# 🧩 What I’m Building Now  
+![Building](https://img.shields.io/badge/Building-Now-blue?style=for-the-badge)
+
+- Developing a **Face Recognition Platform** with vector search & embedding pipelines  
+- Expanding my **DevOps automation framework** (Slack‑driven deploy/promotion/rollback)  
+- Building a **full SRE observability ecosystem** (metrics, alerts, dashboards, runbooks)  
+- Designing **cloud‑native backend systems** with Terraform + ECS Fargate  
 
 ---
 
-## 🧩 Currently Working On
-- Expanding my **DevOps automation portfolio**  
-- Building a **full SRE observability platform**  
-- Improving my **Go programming skills**  
-- Designing a **Personal Finance Tracker API**
-
----
-
-## 📊 GitHub Stats & Activity
+# 📊 GitHub Stats & Activity
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=Franklindot04&theme=tokyonight" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franklindot04&theme=tokyonight" />
@@ -406,11 +210,10 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 
 ---
 
-## 👨‍💻 About Me
-I'm Franklin — a DevOps & SRE engineer passionate about automation, cloud infrastructure, observability, and building production-ready systems.  
-I enjoy documenting my work, mentoring others, and creating real-world engineering projects.
+# 👨‍💻 About Me
+I'm Franklin — a DevOps & SRE engineer passionate about automation, cloud infrastructure, observability, and building production-ready systems.
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 If you find my work useful, consider giving a ⭐ — it helps others discover it.
