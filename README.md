@@ -45,35 +45,17 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 ## 📌 Featured Projects
 
 ### **DevOps & SRE Engineering**
-- **DevOps Deployment Automation (Slack‑Driven CI/CD + Rollback)**  
-  End‑to‑end automated deployment pipeline using GitHub Actions, AWS Lambda, API Gateway, and Slack interactive approvals for deploy/rollback.  
-  👉 `https://github.com/Franklindot04/devops-deployment-automation`
-
-- **Prometheus + Grafana SRE Platform**  
-  Full observability stack with custom FastAPI metrics, dashboards, alerting, and SLO‑focused monitoring.  
-  👉 `https://github.com/Franklindot04/prometheus-grafana-sre-project-Franklin`
-
-- **Ansible Automation Suite**  
-  15+ playbooks for Linux automation, deployments, roles, templates, and real DevOps workflows.  
-  👉 `https://github.com/Franklindot04/ansible-work-1`
+• **[DevOps Deployment Automation](https://github.com/Franklindot04/devops-deployment-automation)** – Slack‑driven CI/CD pipeline with GitHub Actions, AWS Lambda, API Gateway & automated rollback  
+• **[Prometheus + Grafana SRE Platform](https://github.com/Franklindot04/prometheus-grafana-sre-project-Franklin)** – Full observability stack with custom FastAPI metrics, dashboards & alerting  
+• **[Ansible Work 1](https://github.com/Franklindot04/ansible-work-1)** – 15+ playbooks for Linux automation, deployments, roles & templates  
 
 ---
 
 ### **Backend & Microservices**
-- **Face Recognition Platform (Private Repo)**  
-  Production-grade face recognition system using InsightFace, FastAPI, Docker, and AWS. Includes embedding generation, vector search, user enrollment, and secure API endpoints.
-
-- **Python Background Job Microservice**  
-  Modular background job runner with Docker and clean architecture.  
-  👉 `https://github.com/Franklindot04/python-background-job-microservice`
-
-- **Finance Tracker API**  
-  FastAPI backend with JWT auth, SQLite, Docker, and modular architecture.  
-  👉 `https://github.com/Franklindot04/finance-tracker-api`
-
-- **Java Number Guess Game (CI/CD)**  
-  Jenkins pipeline with automated build/test/deploy.  
-  👉 `https://github.com/Franklindot04/number_guess_game/tree/master`
+• **Face Recognition Platform (Private Repo)** – InsightFace + FastAPI + Docker + AWS; embedding generation, vector search & secure APIs  
+• **[Python Background Job Microservice](https://github.com/Franklindot04/python-background-job-microservice)** – Python microservice for running background jobs  
+• **[Finance Tracker API](https://github.com/Franklindot04/finance-tracker-api)** – FastAPI backend with JWT auth, SQLite, Docker & modular architecture  
+• **[Number Guess Game](https://github.com/Franklindot04/number_guess_game/tree/master)** – Java-based game with full Jenkins CI/CD pipeline  
 
 ---
 
