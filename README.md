@@ -18,7 +18,7 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 
 ---
 
-# 🧱 Tech Stack Wall (Compact & Categorized)
+# 🧱 Tech Stack Wall 
 
 **Cloud:** AWS (EC2, Lambda, API Gateway, ECS, ECR, RDS, CloudWatch, IAM, VPC)  
 **CI/CD:** GitHub Actions, Jenkins, Slack Approvals  
