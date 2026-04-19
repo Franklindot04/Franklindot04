@@ -176,16 +176,45 @@ Embedding generation, vector search, user enrollment, secure APIs.
 ---
 
 <details>
-<summary><strong>⚙ Python Background Job Microservice</strong></summary>
+<summary><strong>⚙ Python Background Job Microservice — FastAPI • Redis • RQ • Docker Compose</strong></summary>
 
 **Repo:**  
 • [Python Background Job Microservice](https://github.com/Franklindot04/python-background-job-microservice)
 
 **Shields:**  
-<img src="https://img.shields.io/badge/Python-Microservice-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-API%20Service-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/Redis-Message%20Broker-red?style=flat-square" />
+<img src="https://img.shields.io/badge/RQ-Worker%20Queue-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square" />
+<img src="https://img.shields.io/badge/Compose-Orchestration-blue?style=flat-square" />
 
 **Description:**  
-Modular background job runner with Docker and clean architecture.
+A production‑style microservice architecture built with FastAPI, Redis, and RQ for asynchronous background job processing.  
+The system exposes an HTTP API for submitting jobs, checking job status, and retrieving results — while a dedicated worker processes tasks asynchronously.  
+All components run in isolated containers using Docker Compose.
+
+**Key Capabilities:**  
+- FastAPI HTTP API for job submission & status tracking  
+- Redis as a message broker / job queue  
+- RQ worker for asynchronous background processing  
+- Fully containerized with Docker & Docker Compose  
+- Logs, troubleshooting, and multi‑service orchestration  
+- Deployable on AWS EC2 or any Linux host  
+
+**Architecture:**  
+API → Redis → Worker  
+Jobs are queued by the API, processed by the worker, and results retrieved via HTTP.
+
+**Why This Matters:**  
+Demonstrates real DevOps microservice patterns:  
+- Service separation  
+- Asynchronous processing  
+- Container orchestration  
+- Logging & troubleshooting  
+- Environment‑ready structure  
+
+**Tech Stack:**  
+FastAPI • Redis • RQ • Docker • Docker Compose • Linux
 
 </details>
 
