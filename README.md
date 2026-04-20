@@ -23,7 +23,7 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 
 ---
 
-# 🧱 Tech Stack Wall (Compact, Categorized, With Icons)
+# 🧱 Tech Stack Wall 
 
 **☁️ Cloud:**  
 <img src="https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square&logo=amazonaws" />
