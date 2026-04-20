@@ -94,8 +94,8 @@ flowchart LR
     C --> D[API Gateway<br/>Secure Routing]
     D --> E[Deployment Scripts<br/>build.sh • deploy.sh • promote.sh • rollback.sh]
     E --> F[Staging / Production<br/>Version Tracking + Health Checks]
-    F --> G[Slack Notifications<br/>Status + Logs]
-
+    F --> G[Slack Notifications<br/>Status + Logs] 
+```
 
 # 📌 Featured Projects
 
