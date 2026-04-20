@@ -393,7 +393,7 @@ VPC with NAT Gateway, route tables, and VPC endpoints for ECR/S3.
 
 **Description:**  
 A fully automated CI/CD pipeline for a Java Servlet web application deployed on AWS EC2.  
-This project demonstrates a complete DevOps workflow: build, test, quality gate checks, artifact versioning and automated deployment to Tomcat — all orchestrated through Jenkins Pipeline‑as‑Code.
+This project demonstrates a complete DevOps workflow: build, test, quality gate checks, artifact versioning and automated deployment to Tomcat, all orchestrated through Jenkins Pipeline‑as‑Code.
 
 **Key Capabilities:**  
 - Maven build + unit tests on every commit  
