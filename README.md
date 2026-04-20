@@ -433,11 +433,11 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 <img src="https://img.shields.io/badge/Building-Now-blue?style=for-the-badge" />
 </p>
 
-Developing a Face Recognition Platform with vector search & embedding pipelines  
+Developing a Face Recognition Platform using InsightFace with a microservice architecture (backend + model-service)  
 Expanding my DevOps automation framework (Slack-driven deploy/promotion/rollback)  
 Building a full SRE observability ecosystem (metrics, alerts, dashboards, runbooks)  
-Designing cloud-native backend systems with Terraform + ECS Fargate  
-
+Designing cloud-native backend systems with Terraform + ECS Fargate
+ 
 ---
 
 📊 GitHub Stats & Activity
