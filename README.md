@@ -85,7 +85,7 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 
 ---
 
-# 🔧 ### CI/CD Flow
+# 🔧 CI/CD Flow
 
 flowchart LR
     A[GitHub Actions<br/>CI/CD Workflows] --> B[Slack Approval<br/>Deploy / Promote / Rollback]
