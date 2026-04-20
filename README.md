@@ -126,8 +126,8 @@ flowchart LR
 <img src="https://img.shields.io/badge/Slack-Integration-4A154B?style=flat-square" />
 
 **Description:**  
-A fully automated, Slack‑controlled CI/CD pipeline built with GitHub Actions, AWS Lambda, API Gateway, and a complete stateless rollback system.  
-This project demonstrates real‑world DevOps/SRE practices: multi‑environment deployments, version tracking, health checks, promotion workflows, and automated rollback triggered from Slack.
+A fully automated, Slack‑controlled CI/CD pipeline built with GitHub Actions, AWS Lambda, API Gateway and a complete stateless rollback system.  
+This project demonstrates real‑world DevOps/SRE practices: multi‑environment deployments, version tracking, health checks, promotion workflows and automated rollback triggered from Slack.
 
 ---
 
@@ -188,7 +188,7 @@ GitHub Actions → AWS Lambda → API Gateway → Deployment Scripts → Version
 <img src="https://img.shields.io/badge/Blackbox-Exporter-lightgrey?style=flat-square" />
 
 **Description:**  
-A full production‑grade observability and alerting platform built around a FastAPI application instrumented with Prometheus metrics, visualized through Grafana dashboards, monitored externally via Blackbox Exporter, and equipped with a complete alerting pipeline using Prometheus alert rules + Alertmanager + Grafana‑managed alerts.
+A full production‑grade observability and alerting platform built around a FastAPI application instrumented with Prometheus metrics, visualized through Grafana dashboards, monitored externally via Blackbox Exporter and equipped with a complete alerting pipeline using Prometheus alert rules + Alertmanager + Grafana‑managed alerts.
 
 **Key Capabilities:**  
 - Custom FastAPI metrics (request count, latency histograms, Python internals)  
@@ -211,7 +211,7 @@ FastAPI → Prometheus → Grafana → Alertmanager → Slack
 Blackbox Exporter → Prometheus → Grafana → Alerts  
 
 **What This Demonstrates:**  
-Real SRE practices: instrumentation, exporters, alerting, dashboards, runbooks, secret management, and operational readiness.
+Real SRE practices: instrumentation, exporters, alerting, dashboards, runbooks, secret management and operational readiness.
 
 </details>
 
@@ -230,8 +230,8 @@ Real SRE practices: instrumentation, exporters, alerting, dashboards, runbooks, 
 <img src="https://img.shields.io/badge/Playbooks-15%2B-blue?style=flat-square" />
 
 **Description:**  
-A comprehensive collection of 15+ Ansible playbooks designed to automate real‑world Linux server operations, application deployments, configuration management, and environment provisioning.  
-This suite demonstrates production‑style automation patterns including multi‑play orchestration, templating, handlers, dynamic variables, and reusable role‑based structures.
+A comprehensive collection of 15+ Ansible playbooks designed to automate real‑world Linux server operations, application deployments, configuration management and environment provisioning.  
+This suite demonstrates production‑style automation patterns including multi‑play orchestration, templating, handlers, dynamic variables and reusable role‑based structures.
 
 **Key Capabilities:**  
 - Server provisioning & configuration (users, packages, services)  
@@ -289,8 +289,8 @@ Embedding generation, vector search, user enrollment, secure APIs.
 <img src="https://img.shields.io/badge/Compose-Orchestration-blue?style=flat-square" />
 
 **Description:**  
-A production‑style microservice architecture built with FastAPI, Redis, and RQ for asynchronous background job processing.  
-The system exposes an HTTP API for submitting jobs, checking job status, and retrieving results — while a dedicated worker processes tasks asynchronously.  
+A production‑style microservice architecture built with FastAPI, Redis and RQ for asynchronous background job processing.  
+The system exposes an HTTP API for submitting jobs, checking job status and retrieving results — while a dedicated worker processes tasks asynchronously.  
 All components run in isolated containers using Docker Compose.
 
 **Key Capabilities:**  
@@ -336,7 +336,7 @@ FastAPI • Redis • RQ • Docker • Docker Compose • Linux
 
 **Description:**  
 A production‑ready FastAPI backend for tracking personal expenses — fully containerized with Docker and deployed to AWS ECS Fargate using Terraform.  
-This project demonstrates real‑world DevOps engineering: Infrastructure as Code, secure VPC networking, load‑balanced container workloads, RDS PostgreSQL, and cloud‑native observability.
+This project demonstrates real‑world DevOps engineering: Infrastructure as Code, secure VPC networking, load‑balanced container workloads, RDS PostgreSQL and cloud‑native observability.
 
 **Key Capabilities:**  
 - JWT‑based authentication (register/login)  
@@ -393,7 +393,7 @@ VPC with NAT Gateway, route tables, and VPC endpoints for ECR/S3.
 
 **Description:**  
 A fully automated CI/CD pipeline for a Java Servlet web application deployed on AWS EC2.  
-This project demonstrates a complete DevOps workflow: build, test, quality gate checks, artifact versioning, and automated deployment to Tomcat — all orchestrated through Jenkins Pipeline‑as‑Code.
+This project demonstrates a complete DevOps workflow: build, test, quality gate checks, artifact versioning and automated deployment to Tomcat — all orchestrated through Jenkins Pipeline‑as‑Code.
 
 **Key Capabilities:**  
 - Maven build + unit tests on every commit  
