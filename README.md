@@ -13,8 +13,8 @@
 # 👋 Hi, I'm Franklin  
 **DevOps & Site Reliability Engineer | AWS | CI/CD | Automation | Observability**
 
-I design reliable, scalable and fully automated systems using AWS, Docker, GitHub Actions, Linux and modern SRE tooling.
-I specialize in infrastructure architecture, operational automation and the engineering patterns that keep platforms stable at scale**.
+I design reliable, scalable and fully automated systems using AWS, Docker, GitHub Actions, Linux and modern SRE tooling.  
+I specialize in infrastructure architecture, operational automation and the engineering patterns that keep platforms stable at scale.
 
 ---
 
