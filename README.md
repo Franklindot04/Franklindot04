@@ -96,7 +96,6 @@ flowchart LR
     E --> F[Staging / Production<br/>Version Tracking + Health Checks]
     F --> G[Slack Notifications<br/>Status + Logs]
 
----
 
 # 📌 Featured Projects
 
