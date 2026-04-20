@@ -87,6 +87,7 @@ My work focuses on **clean infrastructure, reproducible workflows, and real-worl
 
 # 🔧 CI/CD Flow
 
+```mermaid
 flowchart LR
     A[GitHub Actions<br/>CI/CD Workflows] --> B[Slack Approval<br/>Deploy / Promote / Rollback]
     B --> C[AWS Lambda<br/>Webhook Processor]
