@@ -303,7 +303,7 @@ All components run in isolated containers using Docker Compose.
 
 **Architecture:**  
 API → Redis → Worker  
-Jobs are queued by the API, processed by the worker, and results retrieved via HTTP.
+Jobs are queued by the API, processed by the worker and results retrieved via HTTP.
 
 **Why This Matters:**  
 Demonstrates real DevOps microservice patterns:  
