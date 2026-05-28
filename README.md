@@ -290,7 +290,7 @@ Embedding generation, vector search, user enrollment, secure APIs.
 
 **Description:**  
 A production‑style microservice architecture built with FastAPI, Redis and RQ for asynchronous background job processing.  
-The system exposes an HTTP API for submitting jobs, checking job status and retrieving results — while a dedicated worker processes tasks asynchronously.  
+The system exposes an HTTP API for submitting jobs, checking job status and retrieving results,while a dedicated worker processes tasks asynchronously.  
 All components run in isolated containers using Docker Compose.
 
 **Key Capabilities:**  
@@ -359,7 +359,7 @@ This project demonstrates real‑world DevOps engineering: Infrastructure as Cod
 
 **High‑Level Architecture:**  
 ALB → ECS Fargate Task → RDS PostgreSQL  
-VPC with NAT Gateway, route tables, and VPC endpoints for ECR/S3.
+VPC with NAT Gateway, route tables and VPC endpoints for ECR/S3.
 
 **Authentication Flow:**  
 - Register → Login → Receive JWT → Use token in Authorization header  
