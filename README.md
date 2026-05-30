@@ -40,6 +40,9 @@ I specialize in infrastructure architecture, operational automation and the engi
 <img src="https://img.shields.io/badge/Platform%20Engineering-Kubernetes%20%26%20GitOps-326CE5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%26%20Automation-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud-AWS%20Infrastructure-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vercel-Frontend%20Deployments-black?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/Railway-Backend%20Hosting-0B0D0E?style=for-the-badge&logo=railway" />
+<img src="https://img.shields.io/badge/Supabase-Auth%20%26%20Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
 ---
 
