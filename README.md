@@ -18,6 +18,16 @@ I specialize in infrastructure architecture, operational automation and the engi
 
 ---
 
+## 🎯 Engineering Focus
+
+- Building production-style DevOps, SRE and platform engineering systems
+- Designing CI/CD workflows with rollback, promotion and approval patterns
+- Implementing observability with metrics, logs, dashboards, alerts and runbooks
+- Creating Kubernetes-based platforms, GitOps workflows and self-service developer tooling
+- Automating infrastructure and operational workflows using AWS, Terraform, Ansible and Python
+
+---
+
 ## 👀 Visitor Counter
 <img src="https://komarev.com/ghpvc/?username=Franklindot04&color=blue" />
 
