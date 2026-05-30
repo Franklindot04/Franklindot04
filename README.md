@@ -33,6 +33,15 @@ I specialize in infrastructure architecture, operational automation and the engi
 
 ---
 
+## 🧠 Core Strengths
+
+<img src="https://img.shields.io/badge/SRE-Observability%20%26%20Reliability-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform%20Engineering-Kubernetes%20%26%20GitOps-326CE5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%26%20Automation-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-AWS%20Infrastructure-orange?style=for-the-badge" />
+
+---
+
 # 🧱 Tech Stack Wall 
 
 **☁️ Cloud:**  
