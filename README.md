@@ -25,7 +25,7 @@ I specialize in infrastructure architecture, operational automation and the engi
 - Implementing observability with metrics, logs, dashboards, alerts and runbooks
 - Creating Kubernetes-based platforms, GitOps workflows and self-service developer tooling
 - Automating infrastructure and operational workflows using AWS, Terraform, Ansible and Python
-- Deploying full-stack applications with Vercel, Railway and Supabase
+- Deploying full-stack applications with EC2, Vercel, Railway and Supabase
 
 ---
 
