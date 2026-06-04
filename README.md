@@ -13,8 +13,8 @@
 # 👋 Hi, I'm Franklin  
 **DevOps & Site Reliability Engineer | AWS | CI/CD | Automation | Observability**
 
-I design reliable, scalable and fully automated systems using AWS, Docker, GitHub Actions, Linux and modern SRE tooling.  
-I specialize in infrastructure architecture, operational automation and the engineering patterns that keep platforms stable at scale.
+I design reliable, scalable and fully automated systems using AWS, Docker, GitHub Actions, Linux, and modern SRE tooling.  
+I specialize in infrastructure architecture, operational automation, and the engineering patterns that keep platforms stable at scale.
 
 ---
 
@@ -144,7 +144,7 @@ flowchart LR
 
 **Description:**  
 A Kubernetes-native, production-style SRE platform built around a travel booking microservice ecosystem.  
-The platform includes an API gateway, booking service, inventory service, payment service, search service, UI portal and an AI SRE Agent that analyzes incidents, receives Alertmanager webhooks and performs controlled remediation actions.
+The platform includes an API gateway, booking service, inventory service, payment service, search service, UI portal, and an AI SRE Agent that analyzes incidents, receives Alertmanager webhooks and performs controlled remediation actions.
 
 **Key Capabilities:**  
 - Multi-service Kubernetes architecture with TypeScript services  
@@ -188,7 +188,7 @@ Services → Prometheus + Loki → Alertmanager → Slack + AI SRE Agent → Kub
 
 **Description:**  
 A Kubernetes-based Internal Developer Platform designed to standardize how application teams create, deploy and operate services.  
-The platform combines GitOps delivery, reusable infrastructure patterns, Helm-based deployment standards, observability foundations and a self-service service generator for consistent application onboarding.
+The platform combines GitOps delivery, reusable infrastructure patterns, Helm-based deployment standards, observability foundations, and a self-service service generator for consistent application onboarding.
 
 **Key Capabilities:**  
 - Standardized Kubernetes application deployment patterns  
@@ -253,7 +253,7 @@ The platform combines GitOps delivery, reusable infrastructure patterns, Helm-ba
 
 **Description:**  
 A fully automated, Slack-controlled CI/CD pipeline built with GitHub Actions, AWS Lambda, API Gateway and a complete stateless rollback system.  
-This project demonstrates real-world DevOps/SRE practices: multi-environment deployments, version tracking, health checks, promotion workflows and automated rollback triggered from Slack.
+This project demonstrates real-world DevOps/SRE practices: multi-environment deployments, version tracking, health checks, promotion workflows, and automated rollback triggered from Slack.
 
 ---
 
