@@ -553,15 +553,20 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 
 ---
 
-🧩 What I’m Building Now
+## 🧩 What I'm Building Now
+
 <p>
 <img src="https://img.shields.io/badge/Building-Now-blue?style=for-the-badge" />
 </p>
 
-Developing a Face Recognition Platform using InsightFace with a microservice architecture (backend + model-service)  
-Expanding my DevOps automation framework (Slack-driven deploy/promotion/rollback)  
-Building a full SRE observability ecosystem (metrics, alerts, dashboards, runbooks)  
-Designing cloud-native backend systems with Terraform + ECS Fargate
+* Building a **Face Recognition Platform** using InsightFace with a microservice architecture (backend + model service)
+* Developing an **Ecommerce Microservice API** with FastAPI, SQLAlchemy, and SQLite, evolving from an MVP into a production-style backend
+* Expanding a **DevOps Automation Framework** featuring Slack-driven deployments, promotion workflows, and automated rollbacks
+* Building a **Platform Engineering Maturity Lab** *(private repository)* focused on engineering governance, CI/CD, operational readiness, security, and platform best practices
+* Developing a **Kubernetes Internal Developer Platform (IDP)** with GitOps, Helm, self-service developer tooling, and standardized deployment workflows
+* Growing a **Java Mastery Repository** covering Java fundamentals through advanced backend engineering, Spring Boot, Kubernetes, Helm, Infrastructure as Code, cloud architecture, and distributed systems
+* Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
+* Expanding a production-style **SRE observability ecosystem** with metrics, dashboards, alerts, logging, and operational runbooks
  
 ---
 
