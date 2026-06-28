@@ -559,7 +559,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 <img src="https://img.shields.io/badge/Building-Now-blue?style=for-the-badge" />
 </p>
 
-* Building a **Face Recognition Platform** using InsightFace with a microservice architecture (backend + model service)
+* Building a **Face Recognition Platform** *(private repository)* using InsightFace with a microservice architecture (backend + model service)
 * Developing an **Ecommerce Microservice API** with FastAPI, SQLAlchemy, and SQLite, evolving from an MVP into a production-style backend
 * Expanding a **DevOps Automation Framework** featuring Slack-driven deployments, promotion workflows, and automated rollbacks
 * Building a **Platform Engineering Maturity Lab** *(private repository)* focused on engineering governance, CI/CD, operational readiness, security, and platform best practices
