@@ -582,8 +582,10 @@ Designing cloud-native backend systems with Terraform + ECS Fargate
 
 ---
 
-👨‍💻 About Me  
-I'm Franklin, a DevOps & SRE engineer passionate about automation, cloud infrastructure, observability, and building production-ready systems.
+## 👨‍💻 About Me
 
-⭐ Support  
-If you find my work useful, consider giving a ⭐  it helps others discover it.
+I'm Franklin, a DevOps and Site Reliability Engineer with a focus on automation, cloud infrastructure, observability, and building reliable, production-ready systems.
+
+## ⭐ Support
+
+If you find any of these projects useful, consider giving them a ⭐. Your support helps others discover them.
