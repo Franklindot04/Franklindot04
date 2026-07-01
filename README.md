@@ -567,7 +567,8 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Growing a **Java Mastery Repository** covering Java fundamentals through advanced backend engineering, Spring Boot, Kubernetes, Helm, Infrastructure as Code, cloud architecture, and distributed systems
 * Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
 * Expanding a production-style **SRE observability ecosystem** with metrics, dashboards, alerts, logging, and operational runbooks
- 
+* Building a **Fitness App API** *(private repository)* with FastAPI and a relational database, evolving from an MVP into a health-focused backend service
+
 ---
 
 📊 GitHub Stats & Activity
