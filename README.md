@@ -568,6 +568,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
 * Expanding a production-style **SRE observability ecosystem** with metrics, dashboards, alerts, logging, and operational runbooks
 * Building a **Fitness App API** *(private repository)* with FastAPI and a relational database, evolving from an MVP into a health-focused backend service
+* Exploring a **Java-based Developer Tools Service** that will evolve into a backend platform for automating and standardizing everyday engineering tasks
 
 ---
 
