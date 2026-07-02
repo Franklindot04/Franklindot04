@@ -588,10 +588,6 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Franklindot04&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/contributions?username=Franklindot04&theme=tokyonight" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
