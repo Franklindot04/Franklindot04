@@ -560,7 +560,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 </p>
 
 * Building a **Face Recognition Platform** *(private repository)* using InsightFace with a microservice architecture (backend + model service)
-* Developing an **Ecommerce Microservice API** with FastAPI, SQLAlchemy, and SQLite, evolving from an MVP into a production-style backend
+* Developing an **Ecommerce Microservice API** with FastAPI, SQLAlchemy, Alembic, JWT authentication, Pytest, and Docker, building a production-style backend with user authentication, shopping carts, order management, database migrations, automated testing, and containerized deployment.
 * Expanding a **DevOps Automation Framework** featuring Slack-driven deployments, promotion workflows, and automated rollbacks
 * Building a **Platform Engineering Maturity Lab** *(private repository)* focused on engineering governance, CI/CD, operational readiness, security, and platform best practices
 * Developing a **Kubernetes Internal Developer Platform (IDP)** with GitOps, Helm, self-service developer tooling, and standardized deployment workflows
