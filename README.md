@@ -348,7 +348,7 @@ Real SRE practices: instrumentation, exporters, alerting, dashboards, runbooks, 
 <summary><strong>🛒 Ecommerce Microservice API — FastAPI • Redis • Alembic • Docker</strong></summary>
 
 **Repo:**  
-• [Ecommerce Microservice API](https://github.com/Franklindot04/ecommerce-microservice-api)
+• [Ecommerce Microservice API](https://github.com/Franklindot04/ecommerce-api.git)
 
 **Shields:**  
 <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi" />
