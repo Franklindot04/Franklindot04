@@ -133,7 +133,7 @@ flowchart LR
 <summary><strong>🧠 Travel SRE AI Agent Platform — Kubernetes • Observability • SLOs • Auto-Remediation</strong></summary>
 
 **Repo:**  
-• [Travel SRE AI Agent Platform](https://github.com/Franklindot04/travel-sre-ai-agent-platform)
+• [Travel SRE AI Agent Platform](https://github.com/Franklindot04/travel-sre-ai-platform.git)
 
 **Shields:**  
 <img src="https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=flat-square&logo=kubernetes" />
