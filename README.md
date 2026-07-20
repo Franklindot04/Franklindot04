@@ -178,7 +178,7 @@ Services → Prometheus + Loki → Alertmanager → Slack + AI SRE Agent → Kub
 <summary><strong>☸️ Kubernetes Internal Developer Platform — GitOps • Helm • Service Generator • Self-Service Workflows</strong></summary>
 
 **Repo:**  
-• [Kubernetes Internal Developer Platform](https://github.com/Franklindot04/kubernetes-internal-developer-platform)
+• [Kubernetes Internal Developer Platform](https://github.com/Franklindot04/k8s-internal-developer-platform.git)
 
 **Shields:**  
 <img src="https://img.shields.io/badge/Kubernetes-IDP-326CE5?style=flat-square&logo=kubernetes" />
