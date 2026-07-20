@@ -616,6 +616,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Growing a **Java Mastery Repository** covering Java fundamentals through advanced backend engineering, Spring Boot, Kubernetes, Helm, Infrastructure as Code, cloud architecture, and distributed systems
 * Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
 * Expanding a production-style **SRE observability ecosystem** with metrics, dashboards, alerts, logging, and operational runbooks
+* Building a GitHub Webhook Monitor using FastAPI to securely validate X-Hub-Signature-256 webhooks, cap and inspect recent events, and expose health and events endpoints for GitHub integrations.
 
 ---
 
