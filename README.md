@@ -617,6 +617,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
 * Expanding a production-style **SRE observability ecosystem** with metrics, dashboards, alerts, logging, and operational runbooks
 * Building a GitHub Webhook Monitor using FastAPI to securely validate X-Hub-Signature-256 webhooks, cap and inspect recent events, and expose health and events endpoints for GitHub integrations.
+* * Building a **Fitness App API** *(private repository)* with FastAPI and a relational database, evolving from an MVP into a health-focused backend service
 
 ---
 
