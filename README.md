@@ -613,7 +613,6 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Expanding a **DevOps Automation Framework** featuring Slack-driven deployments, promotion workflows, and automated rollbacks
 * Building a **Platform Engineering Maturity Lab** *(private repository)* focused on engineering governance, CI/CD, operational readiness, security, and platform best practices
 * Developing a **Kubernetes Internal Developer Platform (IDP)** with GitOps, Helm, self-service developer tooling, and standardized deployment workflows
-
 * Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
 * Expanding a production-style **SRE observability ecosystem** with metrics, dashboards, alerts, logging, and operational runbooks
 * Building a GitHub Webhook Monitor using FastAPI to securely validate X-Hub-Signature-256 webhooks, cap and inspect recent events, and expose health and events endpoints for GitHub integrations.
