@@ -621,7 +621,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Exploring a **Java-based Developer Tools Service** that will evolve into a backend platform for automating and standardizing everyday engineering tasks
 * Building a Terraform Delivery Pipeline with GitHub Actions for automated infrastructure validation, planning, and controlled multi-environment deployment workflows.
 * Building an Incident Response Runbook API to centralize service runbooks, alert context, operational metadata, and remediation references for production-style SRE workflows.
-* * Growing a **Java Mastery Repository** covering Java fundamentals through advanced backend engineering, Spring Boot, Kubernetes, Helm, Infrastructure as Code, cloud architecture, and distributed systems
+* Growing a **Java Mastery Repository** covering Java fundamentals through advanced backend engineering, Spring Boot, Kubernetes, Helm, Infrastructure as Code, cloud architecture, and distributed systems
 
 ---
 
