@@ -622,7 +622,6 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Building a Terraform Delivery Pipeline with GitHub Actions for automated infrastructure validation, planning, and controlled multi-environment deployment workflows.
 * Building an Incident Response Runbook API to centralize service runbooks, alert context, operational metadata, and remediation references for production-style SRE workflows.
 
-
 ---
 
 📊 GitHub Stats & Activity
