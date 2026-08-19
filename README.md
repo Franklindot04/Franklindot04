@@ -610,7 +610,6 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 </p>
 
 * Building a **Face Recognition Platform** *(private repository)* using InsightFace with a microservice architecture (backend + model service)
-* Expanding a **DevOps Automation Framework** featuring Slack-driven deployments, promotion workflows, and automated rollbacks
 * Building a **Platform Engineering Maturity Lab** *(private repository)* focused on engineering governance, CI/CD, operational readiness, security, and platform best practices
 * Developing a **Kubernetes Internal Developer Platform (IDP)** with GitOps, Helm, self-service developer tooling, and standardized deployment workflows
 * Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
