@@ -614,7 +614,6 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Developing a **Kubernetes Internal Developer Platform (IDP)** with GitOps, Helm, self-service developer tooling, and standardized deployment workflows
 * Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
 * Expanding a production-style **SRE observability ecosystem** with metrics, dashboards, alerts, logging, and operational runbooks
-* Building a GitHub Webhook Monitor using FastAPI to securely validate X-Hub-Signature-256 webhooks, cap and inspect recent events, and expose health and events endpoints for GitHub integrations.
 * Building a **Fitness App API** *(private repository)* with FastAPI and a relational database, evolving from an MVP into a health-focused backend service
 * Designing a **Java Backend Application** with Spring Boot and a relational database, focused on production-grade API design, automated testing, and end-to-end DevOps practices
 * Exploring a **Java-based Developer Tools Service** that will evolve into a backend platform for automating and standardizing everyday engineering tasks
