@@ -618,6 +618,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Designing a **Java Backend Application** with Spring Boot and a relational database, focused on production-grade API design, automated testing, and end-to-end DevOps practices
 * Exploring a **Java-based Developer Tools Service** that will evolve into a backend platform for automating and standardizing everyday engineering tasks
 * Building a Terraform Delivery Pipeline with GitHub Actions for automated infrastructure validation, planning, and controlled multi-environment deployment workflows.
+* Building a GitHub Webhook Monitor using FastAPI to securely validate X-Hub-Signature-256 webhooks, cap and inspect recent events, and expose health and events endpoints for GitHub integrations.
 
 ---
 
