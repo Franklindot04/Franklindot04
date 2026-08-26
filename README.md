@@ -611,7 +611,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 
 * Building a **Face Recognition Platform** *(private repository)* using InsightFace with a microservice architecture (backend + model service)
 * Building a **Platform Engineering Maturity Lab** *(private repository)* focused on engineering governance, CI/CD, operational readiness, security, and platform best practices
-* Developing a **Kubernetes Internal Developer Platform (IDP)** with GitOps, Helm, self-service developer tooling, and standardized deployment workflows
+
 * Designing cloud-native infrastructure using **AWS, Terraform, Docker, Kubernetes, and ECS Fargate**
 * Building a **Fitness App API** *(private repository)* with FastAPI and a relational database, evolving from an MVP into a health-focused backend service
 * Designing a **Java Backend Application** with Spring Boot and a relational database, focused on production-grade API design, automated testing, and end-to-end DevOps practices
