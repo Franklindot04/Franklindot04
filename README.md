@@ -616,6 +616,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Designing a **Java Backend Application** with Spring Boot and a relational database, focused on production-grade API design, automated testing, and end-to-end DevOps practices
 * Exploring a **Java-based Developer Tools Service** that will evolve into a backend platform for automating and standardizing everyday engineering tasks
 * Building a Terraform Delivery Pipeline with GitHub Actions for automated infrastructure validation, planning, and controlled multi-environment deployment workflows.
+* Building an **eRecall** an open-source, memory-first AI assistant focused on persistent user-controlled memory, semantic retrieval, and intelligent memory management
 
 ---
 
