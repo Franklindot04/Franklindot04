@@ -617,7 +617,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Exploring a **Java-based Developer Tools Service** that will evolve into a backend platform for automating and standardizing everyday engineering tasks
 * Building a Terraform Delivery Pipeline with GitHub Actions for automated infrastructure validation, planning, and controlled multi-environment deployment workflows
 * Building a Multi‑Service Infrastructure Framework under the workshop‑infra project, focused on modular automation, event processing, system orchestration, and cloud‑native operational tooling
-* Building a Video Downloader API Platform with FastAPI, Redis, yt‑dlp, rate‑limiting, abuse detection, compression, and production‑grade middleware focused on reliability, performance, and operational hardening
+* Building a **Video Downloader API Platform** with FastAPI, Redis, yt‑dlp, rate‑limiting, abuse detection, compression, and production‑grade middleware focused on reliability, performance, and operational hardening
 
 ---
 
