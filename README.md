@@ -615,7 +615,7 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 * Building a **Fitness App API** *(private repository)* with FastAPI and a relational database, evolving from an MVP into a health-focused backend service
 * Designing a **Java Backend Application** with Spring Boot and a relational database, focused on production-grade API design, automated testing, and end-to-end DevOps practices
 * Exploring a **Java-based Developer Tools Service** that will evolve into a backend platform for automating and standardizing everyday engineering tasks
-* Building a Terraform Delivery Pipeline with GitHub Actions for automated infrastructure validation, planning, and controlled multi-environment deployment workflows
+* Building a **Terraform Delivery Pipeline** with GitHub Actions for automated infrastructure validation, planning, and controlled multi-environment deployment workflows
 * Building a Multi‑Service Infrastructure Framework under the **workshop‑infra project**, focused on modular automation, event processing, system orchestration, and cloud‑native operational tooling
 * Building a **Video Downloader API Platform** with FastAPI, Redis, yt‑dlp, rate‑limiting, abuse detection, compression, and production‑grade middleware focused on reliability, performance, and operational hardening
 
