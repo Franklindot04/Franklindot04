@@ -19,7 +19,7 @@ I specialize in infrastructure architecture, operational automation, and the eng
 ---
 
 <details>
-<summary><strong>🟢 View More About Me</strong></summary>
+<summary><strong>▶▶▶▶▶▶▶▶ View More About Me</strong></summary>
  
 <br>
 
