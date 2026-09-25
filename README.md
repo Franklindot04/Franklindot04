@@ -19,7 +19,7 @@ I specialize in infrastructure architecture, operational automation, and the eng
 ---
 
 <details>
-<summary><strong>▶ ▶ ▶ View More About Me</strong></summary>
+<summary><strong>▶ ▶ View More About Me</strong></summary>
  
 <br>
 
@@ -649,6 +649,9 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 I'm Franklin, a DevOps and Site Reliability Engineer with a focus on automation, cloud infrastructure, observability, and building reliable, production-ready systems.
 
 </details>
+
+
+
 
 ## ⭐ Support
 
