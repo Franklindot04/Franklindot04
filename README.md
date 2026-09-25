@@ -18,6 +18,12 @@ I specialize in infrastructure architecture, operational automation, and the eng
 
 ---
 
+<details>
+<summary><strong>View More About Me</strong></summary>
+ 
+<br>
+
+
 ## 🎯 Engineering Focus
 
 - Building production-style DevOps, SRE and platform engineering systems
@@ -637,6 +643,8 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 </p>
 
 ---
+
+</details>
 
 ## 👨‍💻 About Me
 
