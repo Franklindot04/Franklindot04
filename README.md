@@ -644,11 +644,11 @@ Java Servlets + JSP • Maven • Jenkins Pipeline • SonarQube • Nexus • T
 
 ---
 
-</details>
-
 ## 👨‍💻 About Me
 
 I'm Franklin, a DevOps and Site Reliability Engineer with a focus on automation, cloud infrastructure, observability, and building reliable, production-ready systems.
+
+</details>
 
 ## ⭐ Support
 
