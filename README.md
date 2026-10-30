@@ -652,11 +652,7 @@ I'm Franklin, a DevOps and Site Reliability Engineer with a focus on automation,
 
 ---
 
-<p align="center">
-  <a href="mailto:ajerofranklin_dev@proton.me">
-    <img src="https://img.shields.io/badge/Proton%20Mail-ajerofranklin__dev%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Franklin" />
-  </a>
-</p>
+<p align="center">📧 <a href="mailto:ajerofranklin_dev@proton.me">ajerofranklin_dev@proton.me</a></p>
 
 ---
 
