@@ -19,6 +19,7 @@ I specialize in infrastructure architecture, operational automation, and the eng
 ---
 
 https://franklindot04.github.io/production-platform-Azure/
+https://spin-the-wheel-9js.pages.dev
 
 ----
 
