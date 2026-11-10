@@ -18,6 +18,10 @@ I specialize in infrastructure architecture, operational automation, and the eng
 
 ---
 
+https://franklindot04.github.io/production-platform-Azure/
+
+----
+
 <details>
 <summary><strong> View More About Me</strong></summary>
  
