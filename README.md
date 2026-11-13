@@ -662,6 +662,6 @@ I'm Franklin, a DevOps and Site Reliability Engineer with a focus on automation,
 
 ---
 
-## ⭐ Support
+##  Support
 
 Drop a ⭐ if you find any of these projects useful.Your support helps others discover them.
